@@ -1,0 +1,18 @@
+﻿Id,trx_id,product_name,quantity,price
+1,1,Beng beng,100,6000
+2,1,Taro,80,5500
+3,2,Beng Beng,70,6000
+4,2,Taro,41,5500
+5,2,Indomie Kari Ayam,12,3000
+6,2,Indomie Ayam Bawang,20,3100
+7,3,Indomie Ayam Bawang,30,3200
+8,3,Indomie Kari Ayam,90,3300
+9,3,Taro,100,5500
+10,4,Beng Beng,40,6000
+11,5,Teh Sariwangi Murni,50,8000
+12,6,Indomie Kari Ayam,10,3000
+13,6,Indomie Ayam Bawang,8,3100
+14,6,Teh Sariwangi Murni,80,8000
+15,6,Teh Hijau Cap Kepala Djenggot,15,9500
+16,7,Coki-coki,70,1000
+17,8,Bakmi Mewah,1500,13000
